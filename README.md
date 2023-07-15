@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @R2D2-HRV
 - 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I work in the field of communications and IT.
+- 💞️ I work in the field of communications and IT in a large oil and gas company.
+- 📫 How to reach me rustamextreme@rambler.ru
 
 <!---
 R2D2-HRV/R2D2-HRV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
