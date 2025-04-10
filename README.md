@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @R2D2-HRV
 - 👀 I’m interested in machine learning.
 - 🌱 I work in the field of communications and IT.
-- 💞️ I work in the field of communications and IT in a large oil and gas company.
+- 💞️ I work in the field of communications and IT in a large information security company.
 - 📫 How to reach me rustamextreme@rambler.ru
 
 <!---
